@@ -1,2 +1,2 @@
 # testAssessment
-For test assessment as Salesforce test.
+For test assessment (Salesforce Developer).
